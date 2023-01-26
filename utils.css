@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+39+Text&family=New+Tegomin&family=Noto+Serif+HK:wght@200&family=Poppins:wght@300&family=Press+Start+2P&family=Reem+Kufi+Fun&family=Ubuntu:wght@300&display=swap');
+.flex{
+    display: flex;
+}
+.flexc{
+    flex-direction: column;
+}
+.container{
+    padding: 20px;
+    margin: 13px 0;
+}
+.item-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+.bold{
+    font-weight: bolder;
+}
+.space-between{
+    justify-content: space-around;
+}
